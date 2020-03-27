@@ -1,4 +1,5 @@
-[
+{
+  "news": [
   {
     "subtitle": "COMERCIO EXTERIOR",
     "title": "China mantendrá su política de no aranceles para países en desarrollo",
@@ -35,5 +36,5 @@
     ],
     "image": "https://via.placeholder.com/718x412",
     "id": 26
-  }
-]
+  }]
+}
